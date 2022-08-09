@@ -12,3 +12,4 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 ## 🙋 Volunteer work
  - **Wikimedia Foundation** (January 2015 to June 2019): Software Developer
  - **MediaWiki.org** (August 2017 to Present): Site Administrator
+ - **MOBI**: (June 2022 to Present): General Officer for Computer Science/Software Engineering student organization at UTA. 
