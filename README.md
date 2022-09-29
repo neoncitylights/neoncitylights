@@ -11,3 +11,4 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
  - **UTA Association of Computing Machinery** (September 2022 to Present)
    - Helping to lead an introductory workshop to the Rust programming language in late Fall.
    - Upcoming Spring 2023 Project Director to lead a team of 5 that will present a natural language processing project to the UTA CSE Department.
+   - Upcoming Fall 2023 Research Director
