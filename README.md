@@ -12,4 +12,8 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
    - Helping to lead an introductory workshop to the Rust programming language in late Fall.
    - Upcoming Spring 2023 Project Director to lead a team of 5 that will present a natural language processing project to the UTA CSE Department.
    - Upcoming Fall 2023 Research Director to lead a team of 5 that will present a project to the Research Symporium.
+
+## Hackathons
  - **HackSMU 2022** (3rd Place Winner): Collaborated with a group of 3 other students to create a cross-platform application (web and mobile) encouraging sustainability.
+ - **HackUTA 2022** (4th Place Winner): Collaborated with 3 other students to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.
+ - **HackUTD 2022**: Created Chromesthesia with 3 other students, a web application that allows people to experience music with real-time audio-visuals.
