@@ -14,6 +14,6 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
    - Upcoming Fall 2023 Research Director to lead a team of 5 that will present a project to the Research Symporium.
 
 ## Hackathons
- - **HackSMU 2022** (3rd Place Winner): Collaborated with a group of 3 other students to create a cross-platform application (web and mobile) encouraging sustainability.
- - **HackUTA 2022** (4th Place Winner): Collaborated with 3 other students to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.
- - **HackUTD 2022**: Created Chromesthesia with 3 other students, a web application that allows people to experience music with real-time audio-visuals.
+ - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@notalfredo](https://github.com/notalfredo), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
+ - [**HackUTA 2022**](https://github.com/neoncitylights/hackuta-2022) (4th Place Winner): Collaborated with [@chandrasd](https://github.com/chandrasd), [@hoaihdinh](https://github.com/hoaihdinh), and [@SPGoding](https://github.com/SPGoding) to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.  and @neoncitylights. 
+ - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@notalfredo](https://github.com/notalfredo), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
