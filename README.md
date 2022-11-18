@@ -38,7 +38,7 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
   - [GeoTime](https://github.com/neoncitylights/GeoTime): lightweight C# library for querying info of abbreviated timezones
 
 ### MediaWiki extensions
-### Created
+#### Created
   - [StructuredNavigation](https://github.com/wikimedia/mediawiki-extensions-StructuredNavigation): A MediaWiki extension that allows creating machine-readable navigation templates.
  
 #### Contributed to
