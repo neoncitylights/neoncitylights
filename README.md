@@ -39,7 +39,7 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
   - [GeoTime](https://github.com/neoncitylights/GeoTime): lightweight C# library for querying info of abbreviated timezones
 
 ### MediaWiki extensions and skins
-> Note: The following software listed are ones I've contributed to, unless explicitly noted as created.
+> **Note**: The following software listed are ones I've contributed to, unless explicitly noted as created.
   - [StructuredNavigation](https://github.com/wikimedia/mediawiki-extensions-StructuredNavigation) (created): A MediaWiki extension that allows creating machine-readable navigation templates.
   - [Refreshed](https://www.mediawiki.org/wiki/Skin:Refreshed) (co-authored): A clean, modern skin originally created for Brickimedia
   - [Cavendish](https://www.mediawiki.org/wiki/Skin:Cavendish): A port of a MediaWiki skin originally used by wiki.mozilla.org, with MediaWiki 1.35+ support
