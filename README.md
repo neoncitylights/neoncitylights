@@ -44,6 +44,7 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 #### Contributed to
   - [Refreshed](https://www.mediawiki.org/wiki/Skin:Refreshed): A clean, modern skin originally created for Brickimedia
   - [Cavendish](https://www.mediawiki.org/wiki/Skin:Cavendish): A port of a MediaWiki skin originally used by wiki.mozilla.org, with MediaWiki 1.35+ support
+  - [WebPlatform](https://www.mediawiki.org/wiki/Skin:WebPlatform): A port of a MediaWiki skin originally used by the discontinued WebPlatform.org project
   - [RegexBlock](https://github.com/wikimedia/mediawiki-extensions-RegexBlock): Adds a UI for blocking, viewing and unblocking user names and IP addresses using regular expressions
   - [SpamRegex](https://www.mediawiki.org/wiki/Extension:SpamRegex): Adds a UI for filtering unwanted content. Allows disabling from page content, edit summaries, and/or page move summaries
 </details>
