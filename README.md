@@ -16,12 +16,13 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 <details>
  <summary><em>Read more…</em></summary>
 
-## Hackathons
+
+## Software
+### Hackathons
  - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@notalfredo](https://github.com/notalfredo), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
  - [**HackUTA 2022**](https://github.com/neoncitylights/hackuta-2022) (4th Place Winner): Collaborated with [@chandrasd](https://github.com/chandrasd), [@hoaihdinh](https://github.com/hoaihdinh), and [@SPGoding](https://github.com/SPGoding) to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.  and @neoncitylights. 
  - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@notalfredo](https://github.com/notalfredo), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
-
-## Software
+ 
 ### NPM (JS/TS) libraries
   - [`@neoncitylights/cli-help-parser`](https://github.com/neoncitylights/cli-help-parser): Tool to parse a CLI's help manual into a machine-readable AST for Fig
   - [`@neoncitylights/html-walker`](https://github.com/neoncitylights/ts-html-walker): TypeScript library to make walking through the DOM easier.
