@@ -13,7 +13,22 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
    - Upcoming Spring 2023 Project Director to lead a team of 5 that will present a natural language processing project to the UTA CSE Department.
    - Upcoming Fall 2023 Research Director to lead a team of 5 that will present a project to the Research Symporium.
 
+<details>
+ <summary>Read more…</summary>
+
 ## Hackathons
  - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@notalfredo](https://github.com/notalfredo), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
  - [**HackUTA 2022**](https://github.com/neoncitylights/hackuta-2022) (4th Place Winner): Collaborated with [@chandrasd](https://github.com/chandrasd), [@hoaihdinh](https://github.com/hoaihdinh), and [@SPGoding](https://github.com/SPGoding) to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.  and @neoncitylights. 
  - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@notalfredo](https://github.com/notalfredo), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
+
+## Libraries
+ - NPM libraries:
+   - [`@neoncitylights/html-walker`](https://github.com/neoncitylights/ts-html-walker)
+   - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils)
+   - [`@neoncitylights/set-theory`](https://github.com/neoncitylights/ts-set-theory)
+   - [`@neoncitylights/scale`](https://github.com/neoncitylights/ts-scale)
+ - Composer libraries:
+   - [`neoncitylights/data-url`](https://github.com/neoncitylights/php-data-url)
+   - [`neoncitylights/media-type`](https://github.com/neoncitylights/php-media-type)
+   - [`neoncitylights/mediawiki-docs`](https://github.com/neoncitylights/php-mediawiki-docs)
+</details>
