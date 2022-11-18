@@ -14,7 +14,7 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
    - Upcoming Fall 2023 Research Director to lead a team of 5 that will present a project to the Research Symporium.
 
 <details>
- <summary>Read more…</summary>
+ <summary><em>Read more…</em></summary>
 
 ## Hackathons
  - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@notalfredo](https://github.com/notalfredo), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
