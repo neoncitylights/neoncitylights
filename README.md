@@ -23,10 +23,11 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 
 ## Software
 ### NPM (JS/TS) libraries
+  - [`@neoncitylights/cli-help-parser`](https://github.com/neoncitylights/cli-help-parser): Tool to parse a CLI's help manual into a machine-readable AST for Fig
   - [`@neoncitylights/html-walker`](https://github.com/neoncitylights/ts-html-walker): TypeScript library to make walking through the DOM easier.
-  - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils): Improved TypeScript support for CSS and relevant APIs.
   - [`@neoncitylights/set-theory`](https://github.com/neoncitylights/ts-set-theory): Mathematical TS library for working with set theory 
   - [`@neoncitylights/scale`](https://github.com/neoncitylights/ts-scale): Mathematical TS library for working with scales, progressions, and series.
+  - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils): Improved TypeScript support for CSS and relevant APIs.
 
 ### Composer (PHP) libraries
   - [`neoncitylights/data-url`](https://github.com/neoncitylights/php-data-url): Library to parse data URLs, compliant to RFC 2397.
