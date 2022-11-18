@@ -38,5 +38,10 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
   - [GeoTime](https://github.com/neoncitylights/GeoTime): lightweight C# library for querying info of abbreviated timezones
 
 ### MediaWiki extensions
+### Created
   - [StructuredNavigation](https://github.com/wikimedia/mediawiki-extensions-StructuredNavigation): A MediaWiki extension that allows creating machine-readable navigation templates.
+ 
+#### Contributed to
+  - [RegexBlock](https://github.com/wikimedia/mediawiki-extensions-RegexBlock): Adds a UI for blocking, viewing and unblocking user names and IP addresses using regular expressions
+  - [SpamRegex](https://www.mediawiki.org/wiki/Extension:SpamRegex): Adds a UI for filtering unwanted content. Allows disabling from page content, edit summaries, and/or page move summaries
 </details>
