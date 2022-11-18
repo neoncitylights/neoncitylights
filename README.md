@@ -22,13 +22,13 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
  - [**HackUTD 2022**](https://github.com/neoncitylights/hackutd-2022): Created Chromesthesia with [@JaneIRL](https://github.com/JaneIRL), [@notalfredo](https://github.com/notalfredo), and [@Gabe-GH](https://github.com/Gabe-GH), a web application that allows people to experience music with real-time audio-visuals.
 
 ## Libraries
- - NPM libraries:
-   - [`@neoncitylights/html-walker`](https://github.com/neoncitylights/ts-html-walker)
-   - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils)
-   - [`@neoncitylights/set-theory`](https://github.com/neoncitylights/ts-set-theory)
-   - [`@neoncitylights/scale`](https://github.com/neoncitylights/ts-scale)
- - Composer libraries:
-   - [`neoncitylights/data-url`](https://github.com/neoncitylights/php-data-url)
-   - [`neoncitylights/media-type`](https://github.com/neoncitylights/php-media-type)
-   - [`neoncitylights/mediawiki-docs`](https://github.com/neoncitylights/php-mediawiki-docs)
+ - NPM (JS/TS) libraries:
+   - [`@neoncitylights/html-walker`](https://github.com/neoncitylights/ts-html-walker): TypeScript library to make walking through the DOM easier.
+   - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils): Improved TypeScript support for CSS and relevant APIs.
+   - [`@neoncitylights/set-theory`](https://github.com/neoncitylights/ts-set-theory): Mathematical TS library for working with set theory 
+   - [`@neoncitylights/scale`](https://github.com/neoncitylights/ts-scale): Mathematical TS library for working with scales, progressions, and series.
+ - Composer (PHP) libraries:
+   - [`neoncitylights/data-url`](https://github.com/neoncitylights/php-data-url): Library to parse data URLs, compliant to RFC 2397.
+   - [`neoncitylights/media-type`](https://github.com/neoncitylights/php-media-type): Library to parse media types, compliant to WHATWG Mime Sniffing Standard and RFC 2045.
+   - [`neoncitylights/mediawiki-docs`](https://github.com/neoncitylights/php-mediawiki-docs): Static analyis tool to generate documentation for MediaWiki symbols (currently supports hook listeners).
 </details>
