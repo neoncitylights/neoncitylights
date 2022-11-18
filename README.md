@@ -40,7 +40,7 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 ### MediaWiki extensions and skins
 > Note: The following software listed are ones I've contributed to, unless explicitly noted as created.
   - [StructuredNavigation](https://github.com/wikimedia/mediawiki-extensions-StructuredNavigation) (created): A MediaWiki extension that allows creating machine-readable navigation templates.
-  - [Refreshed](https://www.mediawiki.org/wiki/Skin:Refreshed): A clean, modern skin originally created for Brickimedia
+  - [Refreshed](https://www.mediawiki.org/wiki/Skin:Refreshed) (co-authored): A clean, modern skin originally created for Brickimedia
   - [Cavendish](https://www.mediawiki.org/wiki/Skin:Cavendish): A port of a MediaWiki skin originally used by wiki.mozilla.org, with MediaWiki 1.35+ support
   - [WebPlatform](https://www.mediawiki.org/wiki/Skin:WebPlatform): A port of a MediaWiki skin originally used by the discontinued WebPlatform.org project
   - [RegexBlock](https://github.com/wikimedia/mediawiki-extensions-RegexBlock): Adds a UI for blocking, viewing and unblocking user names and IP addresses using regular expressions
