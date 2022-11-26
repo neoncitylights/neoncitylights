@@ -1,10 +1,10 @@
-# 🌊 Hello!
+# Hello! 😊👋
 
 My name is Samantha (she/her), and I'm a student currently studying computer science. I'm passionate about open-source software, computer science, hardware engineering, and natural language processing!
 
 Previously, I've worked as a full-stack software engineer at ShoutWiki from January 2017 to July 2019.
 
-## 🙋 Leadership experience
+## Leadership experience 👩‍🎓
  - **Wikimedia Foundation** (January 2015 to June 2019): Software Developer
  - **MediaWiki.org** (August 2017 to Present): Site Administrator & Technical Writer
  - **UTA MOBI** (June 2022 to Present): General Officer for Computer Science/Software Engineering student organization at UTA. 
