@@ -1,6 +1,6 @@
 # Hello! 😊👋
 
-My name is Samantha (she/her), and I'm a student currently studying computer science. I'm passionate about open-source software, computer science, hardware engineering, and natural language processing!
+My name is Samantha (she/her), and I'm a student currently studying computer science. I'm passionate about fine arts and all sorts of things related to programming, including FOSS (free, open-source software), computer science, and software engineering. I think natural language processing is quite fascinating as well!
 
 Previously, I've worked as a full-stack software engineer at ShoutWiki from January 2017 to July 2019.
 
