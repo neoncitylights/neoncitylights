@@ -18,6 +18,12 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
 
 
 ## Software
+> **Note**:
+> Unless otherwise specified, I release all my software under the MIT license.
+> - For software written in Rust, they're available under the dual Apache 2.0 & MIT license ([for compatibility](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/2)).
+> - For MediaWiki extensions I create, they're available under the MIT license.
+> - For MediaWiki extensions I contribute to, they're *generally* available under GNU General Public License v2.0 or later (per general guidelines of the MediaWiki community).
+
 ### Hackathons
  - [**HackSMU 2022**](https://github.com/neoncitylights/hacksmu-2022) (3rd Place Winner): Collaborated with [@hotchelle](https://github.com/hotchelle), [@notalfredo](https://github.com/notalfredo), and [@froggie4321](https://github.com/froggie4321) to create a cross-platform application (web and mobile) encouraging sustainability. 
  - [**HackUTA 2022**](https://github.com/neoncitylights/hackuta-2022) (4th Place Winner): Collaborated with [@chandrasd](https://github.com/chandrasd), [@hoaihdinh](https://github.com/hoaihdinh), and [@SPGoding](https://github.com/SPGoding) to create Datageddon, a dataset engine for machine learning engineers, researchers, and students.  and @neoncitylights. 
