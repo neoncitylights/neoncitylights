@@ -35,7 +35,8 @@ Previously, I've worked as a full-stack software engineer at ShoutWiki from Janu
   - [`@neoncitylights/set-theory`](https://github.com/neoncitylights/ts-set-theory): Mathematical TS library for working with set theory 
   - [`@neoncitylights/scale`](https://github.com/neoncitylights/ts-scale): Mathematical TS library for working with scales, progressions, and series.
   - [`@neoncitylights/typed-css-utils`](https://github.com/neoncitylights/typed-css-utils): Improved TypeScript support for CSS and relevant APIs.
- - [`@neoncitylights/whatwg-infra`](https://github.com/neoncitylights/ts-whatwg-infra): TypeScript package implementing various Unicode-related algorithms from the WHATWG Infra Standard.
+  - [`@neoncitylights/typed-http`](https://github.com/neoncitylights/typed-http): A TypeScript package that provides strongly typed HTTP header names. Supports the Fetch API, XmlHttpRequest, and the Node.js HTTP module with zero-runtime overhead. 
+  - [`@neoncitylights/whatwg-infra`](https://github.com/neoncitylights/ts-whatwg-infra): TypeScript package implementing various Unicode-related algorithms from the WHATWG Infra Standard.
 
 ### Composer (PHP) libraries
   - [`neoncitylights/data-url`](https://github.com/neoncitylights/php-data-url): Library to parse data URLs, compliant to RFC 2397.
