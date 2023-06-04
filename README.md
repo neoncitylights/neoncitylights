@@ -1,6 +1,6 @@
 # Hello! 😊👋
 
-My name is Samantha (she/her). 'm passionate about fine arts, linguistics, and all sorts of things related to programming, including [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) (free, open-source software), computer science, and software engineering!
+My name is Samantha (she/her). I'm passionate about fine arts, linguistics, and all sorts of things related to programming, including [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) (free, open-source software), computer science, and software engineering!
 
  - Previously, I've worked as a software engineer at ShoutWiki from January 2017 to July 2019, a MediaWiki-powered web hosting platform.
  - I've helped as a technical editor and site administrator for MediaWiki.org, as well as contribute to the open-source software community in MediaWiki community.
