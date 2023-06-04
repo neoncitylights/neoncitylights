@@ -2,16 +2,9 @@
 
 My name is Samantha (she/her), and I'm a student currently studying computer science. I'm passionate about fine arts and all sorts of things related to programming, including [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) (free, open-source software), computer science, and software engineering. I think natural language processing is really interesting as well!
 
-Previously, I've worked as a full-stack software engineer at ShoutWiki from January 2017 to July 2019.
-
-## Leadership experience 👩‍🎓
- - **Wikimedia Foundation** (January 2015 to June 2019): Software Developer
- - **MediaWiki.org** (August 2017 to Present): Site Administrator & Technical Writer
- - **UTA MOBI** (June 2022 to Present): General Officer for CSE/SWE student organization at UTA. 
- - **UTA Association of Computing Machinery** (September 2022 to Present)
-   - Helping to lead an introductory workshop to the Rust programming language in late Fall.
-   - Upcoming Spring 2023 Project Director to lead a team of 5 that will present a natural language processing project to the UTA CSE Department.
-   - Upcoming Fall 2023 Research Director to lead a team of 5 that will present a project to the Research Symporium.
+ - Previously, I've worked as a full-stack software engineer at ShoutWiki from January 2017 to July 2019.
+ - I've helped as a technical editor and site administrator for MediaWiki.org, as well as contribute to the open-source software community in MediaWiki community.
+ - Now, I'm working as a software engineer intern at Red Hat this summer 2023. :-)
 
 <details>
  <summary><em>Read more…</em></summary>
