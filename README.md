@@ -1,12 +1,10 @@
 Hello! 😊👋 My name is Samantha (she/her). I'm passionate about fine arts, linguistics, and all sorts of things related to programming, especially compiler design and programming languages.
 
- - Previously, I've worked as a software engineer at ShoutWiki from January 2017 to July 2019, a MediaWiki-powered web hosting platform.
- - I've helped as a technical editor and site administrator for MediaWiki.org, as well as contribute to the open-source software community in MediaWiki.
- - Now, I'm working as a software engineer intern at Red Hat this summer 2023. :-)
-
 <details>
  <summary><em>Read more…</em></summary>
 
+- Previously, I've worked as a software engineer at ShoutWiki from January 2017 to July 2019, a MediaWiki-powered web hosting platform.
+- I've helped as a technical editor and site administrator for MediaWiki.org, as well as contribute to the open-source software community in MediaWiki.
 
 ## Software
 > **Note**:
