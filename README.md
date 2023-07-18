@@ -1,4 +1,4 @@
-Hello! 😊👋 My name is Samantha (she/her). I'm passionate about fine arts, linguistics, and all sorts of things related to programming, especially compiler design and programming languages.
+Hello! 😊👋 My name is Samantha (she/her). I'm passionate about fine arts, linguistics, and all sorts of things related to programming, especially low-level code (like compiler design, operating systems, and programming languages).
 
 <details>
  <summary><em>Read more…</em></summary>
