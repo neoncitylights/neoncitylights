@@ -7,7 +7,7 @@ Hello! 😊👋 My name is Samantha (she/her). I'm passionate about fine arts, l
 - I've helped as a technical editor and site administrator for MediaWiki.org, as well as contribute to the open-source software community in MediaWiki.
 
 ## Software
-> **Note**:
+> [!NOTE]
 > Unless otherwise specified, I release all my software under the MIT license.
 > - For software written in Rust, they're available under the dual Apache 2.0 & MIT license ([for compatibility](https://internals.rust-lang.org/t/rationale-of-apache-dual-licensing/8952/2)).
 > - For MediaWiki extensions I create, they're available under the MIT license.
