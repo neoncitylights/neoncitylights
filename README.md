@@ -1,3 +1,9 @@
-Hello! 😊👋 My name is Samantha. I'm most interested in low-level programming including stuff like operating systems, assembly, compiler design. Other fields of interest include distributed engineering, and creating tools for improving the developer experience.
+Hello! 😊👋 My name is Samantha. I host most of my JavaScript/TypeScript projects under the nodecitylights organization. Rust projects are hosted under my own personal account! 🦀
 
-I host most of my JavaScript/TypeScript projects under the [nodecitylights organization](https://github.com/nodecitylights). Rust projects are hosted under my own personal account! 🦀
+----
+
+<p align="center">
+  <a href="https://samanthanguyen.me">samanthanguyen.me</a> · <a href="https://bsky.app/profile/samanthanguyen.me">bsky.app</a> · <a href="https://crates.io/users/neoncitylights">crates.io</a> · <a href="https://packagist.org/users/neoncitylights/packages/">packagist</a> · <a href="https://jsr.io/@nc">jsr</a>
+</p>
+
+
