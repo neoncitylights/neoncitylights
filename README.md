@@ -1,4 +1,4 @@
-Hello! 😊👋 My name is Samantha. I host most of my JavaScript/TypeScript projects under the nodecitylights organization. Rust projects are hosted under my own personal account! 🦀
+Hello! 😊👋 My name is Samantha. I like creating art and writing code. I host most of my JavaScript/TypeScript projects under the nodecitylights organization. Rust projects are hosted under my own personal account! 🦀
 
 ----
 
