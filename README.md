@@ -1,4 +1,8 @@
-Hello! 😊👋 My name is Samantha. I like creating art and writing code. I host most of my JavaScript/TypeScript projects under the <a href="https://github.com/nc-js">nc.js</a> organization. Rust projects are hosted under my own personal account! 🦀
+Hello! 😊👋 My name is Samantha. I like creating art and writing code. Rust projects are hosted under my own personal account! 🦀
+
+Language-specific organizations:
+- [nc-js](https://github.com/nc-js) - Projects written in JavaScript and TypeScript
+- [php-lights](https://github.com/php-lights) - Projects written in PHP
 
 ----
 
